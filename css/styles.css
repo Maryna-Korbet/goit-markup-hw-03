@@ -47,11 +47,13 @@ img {
   display: block;
 }
 
-/*-----ОБЩИЕ БЛОЧНІЕ СТИЛИ-----*/
+/*-----ОБЩИЕ БЛОЧНЫЕ СТИЛИ-----*/
 .container {
   width: 1200px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .section {
   padding: 94px 0;
@@ -109,8 +111,6 @@ body {
 .header-container {
   display: flex;
   align-items: center;
-  padding-top: 25px;
-  padding-bottom: 25px;
 }
 .navigation {
   display: flex;
